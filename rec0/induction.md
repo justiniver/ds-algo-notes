@@ -1,6 +1,6 @@
 # Induction Basics
 
-![Question 1](/Users/justiniverson/Desktop/codingstuff/cs3500/ds-algo-notes/rec0/rec0p1.png)
+![Question 1](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/rec0/rec0p1.png)
 
 ### Basic Steps
 1. Base Case
