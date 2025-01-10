@@ -2,7 +2,7 @@
 
 ![Selection Sort Basics](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/selectionsort1.png)
 
-- Traverse entire n-element list, find minimum, put at front
+- Traverse remaining n-element list, find minimum, put at front
 - Repeat this n - 1 times
 
 ### Pseudocode

@@ -16,10 +16,8 @@ public class SortingAlgo {
         }
     }
 
+
     public static void main(String[] args) {
         int[] nums = new int[]{3, 5, 6, 1, 2, 1, 8, 5, 1};
-        System.out.println(Arrays.toString(nums));
-        mySelectionSort(nums);
-        System.out.println(Arrays.toString(nums));
     }
 }
