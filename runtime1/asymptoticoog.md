@@ -7,6 +7,8 @@
 
 ## Big-Oh Notation
 
+![Big-Oh Rules](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/bigohrules.png)
+
 - We look at the behavior of the graph at large inputs
 - Regular 'Big-Oh' refers to the worst case complexity
 
@@ -29,4 +31,8 @@ exists such that **f(n) <= c*g(n)** for all **n >= n0**
 ## Limits Are Easier
 ![Limits Example](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/limits1.png)
 
+- Just always use limits
+
+## Big-Omega and Big-Theta
+![Omega and Theta](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/omegatheta.png)
 
