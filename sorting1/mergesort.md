@@ -1,6 +1,6 @@
 ### What is Mergesort?
 
-![MergeSort Basics](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/margesort1.png)
+![MergeSort Basics](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/mergesort1.png)
 
 - Recursively split list in half until we have one element
 - One element is inherently sorted
