@@ -32,7 +32,14 @@ exists such that **f(n) <= c*g(n)** for all **n >= n0**
 ![Limits Example](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/limits1.png)
 
 - Just always use limits
+- Know your log properties (e.g., bring exponent to front)
 
 ## Big-Omega and Big-Theta
 ![Omega and Theta](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/omegatheta.png)
 
+## Little-Oh and Little-Omega Notation
+
+- Exactly the same of Big-Oh notation but means for:
+  - f(n) = o(g(n)), f(n) needs to grow at a strictly **slower** rate (not =)
+- Exactly the same of Big-Omega notation but means for:
+  - f(n) = o(g(n)), f(n) needs to grow at a strictly **faster** rate (not =)
