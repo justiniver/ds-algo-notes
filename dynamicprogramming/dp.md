@@ -22,8 +22,9 @@ FibII(n):
 ````
 Runtime is ~ 2n which is linear
 
-## Approach
+### Approach
 - Identify a set of **sub-problems**
 - relate the sub-problems via a **recurrence**
 - find an **efficient algorithm** to solve the recurrence (top down or bottom up)
+
 
