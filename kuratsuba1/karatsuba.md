@@ -1,4 +1,4 @@
-## Karatsuba's Algorithm
+# Karatsuba's Algorithm
 
 
 ![Kara Basics](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/karabasics.png)

@@ -1,6 +1,6 @@
-## Dynamic Programming
+# Dynamic Programming
 
-## Nth Fibonacci Number
+### Nth Fibonacci Number
 **Take 1**
 ````
 Fibi(n):
@@ -21,3 +21,9 @@ FibII(n):
         return M[n]
 ````
 Runtime is ~ 2n which is linear
+
+## Approach
+- Identify a set of **sub-problems**
+- relate the sub-problems via a **recurrence**
+- find an **efficient algorithm** to solve the recurrence (top down or bottom up)
+
