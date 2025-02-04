@@ -6,3 +6,7 @@
 - How can we partition the graph/data so that we can minimize 'cost' (i.e., smallest number of segments that represents 
 the data well)
 
+### Using the Dynamic Programming approach
+- Identify the subproblems
+- Identify the base case
+
