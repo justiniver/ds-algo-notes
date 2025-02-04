@@ -9,3 +9,4 @@ within the constraints of the knapsack
 ###### Instructor Suggestion: Try Knapsack on LeetCode
 
 ![Filling Knapsack](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/fillknapsack.png)
+
