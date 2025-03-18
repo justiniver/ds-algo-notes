@@ -9,6 +9,8 @@
 ### Minimum Spanning Tree
 ![MST](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/minspantree.png)
 
+![MSTAlgos](/Users/justiniverson/Desktop/codingstuff/CS3000/ds-algo-notes/resources/MSTAlgorithms.png)
+
 
 
 
